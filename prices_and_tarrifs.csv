@@ -1,0 +1,33 @@
+﻿lang,product_name,short_product_name,short_description,price_indication,price_period,Duration,PROFIL,TARIF,pricing_conditions,other
+fr-fr,Billet Origine-Destination,AUTRE TITRE,L'aller-simple pour se rendre d'un point A à un point B,selon l'origine et la destination,à l'unité,À l’unité,,Prix variable,selon l'origine et la destination,
+fr-fr,Billets OrlyBus et RoissyBus,AUTRE TITRE,L'accès direct aux aéroports d’Orly et de Roissy Charles-de-Gaulle,variable selon les lignes,à l'unité,À l’unité,,"11,20 €",variable selon les lignes,
+fr-fr,Carte scolaire bus lignes régulières,AUTRE TITRE,Facilitez vos trajets scolaires quotidiens en bus,selon la distance,,Forfaits,"Écolier, Collégien, Lycéen",Prix variable,selon la distance,
+fr-fr,Carte Scol'R,AUTRE TITRE,La carte pour les trajets scolaires en car en grande couronne,,an,Forfaits,"Écolier, Collégien, Lycéen","329,25€",,
+fr-fr,Fête de la musique,AUTRE TITRE,L'incontournable pour la journée de la fête de la musique,,journée,À la journée,,4€,,
+fr-fr,Forfait Améthyste,AMETHYSTE,"La gratuité pour les seniors, adultes handicapés ou inaptes au travail, anciens combattants ou veuves de guerre",sous conditions,,Forfaits,"Inactif, Retraité",Gratuit,sous conditions,
+fr-fr,Forfait Antipollution,AUTRE TITRE,Voyagez en illimité en cas de pic de pollution,,jour,À la journée,,"3,80€",,
+fr-fr,Forfait Gratuité jeunes en insertion,FGT,Voyagez gratuitement pendant la durée de votre formation professionnelle,,mois,Forfaits,Étudiant ou stagiaire de moins de 26 ans,Gratuit,,
+fr-fr,Forfait imagine R Étudiant,IMAGINE R,Le forfait indispensable des étudiants en Île-de-France,+ 8€ de frais de dossier,an,Forfaits,Étudiant ou stagiaire de moins de 26 ans,365€,+ 8€ de frais de dossier,Souscription en ligne
+fr-fr,Forfait imagine R Junior,IMAGINE R,imagine R à un prix imbattable pour les moins de 11 ans,frais de dossier inclus,an,Forfaits,"Écolier, Collégien, Lycéen",24€,frais de dossier inclus,Souscription en ligne
+fr-fr,Forfait imagine R Scolaire,IMAGINE R,"Le forfait annuel des jeunes du primaire, secondaire et apprentis",+ 8€ de frais de dossier,an,Forfaits,"Écolier, Collégien, Lycéen",365€,+ 8€ de frais de dossier,Souscription en ligne
+fr-fr,Forfait Mobilis,AUTRE TITRE,Des trajets illimités en Île-de-France pendant toute une journée,zones 1 à 2,la journée,À la journée,,"8,45€",zones 1 à 2,
+fr-fr,Forfait Navigo Annuel,NAVIGO,Voyager en illimité toute l'année !,12ème mois offert,mois,Forfaits,"Actif, Salarié","84,10€",12ème mois offert,Souscription en ligne
+fr-fr,Forfait Navigo Annuel Tarification Senior,NAVIGO,50% sur le forfait Navigo Annuel pour les seniors,sous condition,,Forfaits,"Inactif, Retraité",-50%,sous condition,
+fr-fr,"Forfait Navigo Jeune 
+Week-end",AUTRE TITRE,L'indispensable des moins de 26 ans si vous voyagez le week-end ou un jour férié,zone 1 à 3,journée,À la journée,Étudiant ou stagiaire de moins de 26 ans,"4,60€",zone 1 à 3,Recharge via l'app
+fr-fr,Forfait Navigo Jour,NAVIGO JOUR,Voyager en illimité pendant une journée entière !,2 zones,jour,À la journée,,"8,45€",2 zones,Recharge via l'app
+fr-fr,Forfait Navigo Mois,NAVIGO,Voyager en illimité tout au long du mois !,toutes zones,mois,Forfaits,"Actif, Salarié","84,10€",toutes zones,Recharge via l'app
+fr-fr,Forfait Navigo Semaine,NAVIGO,Voyager en illimité toute la semaine !,toutes zones,semaine,Forfaits,,30€,toutes zones,Recharge via l'app
+fr-fr,Forfait Paris Visite,AUTRE TITRE,Votre allié si vous avez prévu de passer quelques jours dans la capitale,zone 1 à 3,jour,À la journée,,"13,55€",zone 1 à 3,
+fr-fr,Forfaits ou titres accompagnant handicap,FGT,Obtenez la réduction ou gratuité pour votre accompagnant,ou tarif réduit -50%,,Forfaits,"Inactif, Retraité",Gratuité,ou tarif réduit -50%,
+fr-fr,Forfaits ou titres personne en situation de handicap,FGT,Réduction 50% ou gratuité pour les personnes en situation de handicap,ou tarif réduit -50%,,Forfaits,"Inactif, Retraité",Gratuité,ou tarif réduit -50%,
+fr-fr,Navigo Liberté +,AUTRE TITRE,Payez vos trajets à l'unité avec votre passe Navigo,"RER dans Paris, métro, bus et tramway",trajet,À l’unité,,"1,69€","RER dans Paris, métro, bus et tramway",Souscription en ligne
+fr-fr,Paris Région Pass,AUTRE TITRE,Pour explorer Paris et sa région en toute simplicité,zone 1 à 3,jour,À la journée,,12€,zone 1 à 3,
+fr-fr,Réduction 50 % Volontaires du Service civique,TST,La réduction pour les volontaires du Service Civique,,,Forfaits,,-50%,,
+fr-fr,Réduction 50%,TST,La Réduction 50% pour les bénéficiaires de l’Aide Médicale d’Etat,sous condition,,,,-50%,sous condition,
+fr-fr,Solidarité 75%,TST,La réduction solidaire pour les bénéficiaires d'aide,toutes zones,,Forfaits,,-75%,toutes zones,
+fr-fr,Solidarité Gratuité,TST,Les transports gratuits dans toute l’Île-de-France pour les bénéficiaires d’aides sociales,toutes zones,tous les 3 mois,Forfaits,"Inactif, Retraité",Gratuit,toutes zones,
+fr-fr,Ticket d’accès à bord SMS,AUTRE TITRE,Vos trajets en bus à portée de SMS !,voir conditions en bas de page,,À l’unité,,"2,50€",voir conditions en bas de page,
+fr-fr,Ticket d'accès à bord,AUTRE TITRE,Montez à bord du bus tout simplement,,à l'unité,À l’unité,,"2,50€",,
+fr-fr,Ticket t+,AUTRE TITRE,L’incontournable pour les trajets dans Paris et sa région,,à l'unité,À l’unité,,"2,10€",,
+fr-fr,Ticket t+ sur passe Navigo Easy ou sur smartphone,AUTRE TITRE,Le ticket t+ enfin dématérialisé !,,à l'unité,À l’unité,,"2,10€",,Recharge via l'app
